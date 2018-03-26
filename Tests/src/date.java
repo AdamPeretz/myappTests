@@ -13,6 +13,9 @@ public class date {
 		System.out.println(dateFormat.format(date)); 
 		
 		System.out.println("This is my app!");
+		
+		System.out.println("Hello");
+
 
 	}
 
